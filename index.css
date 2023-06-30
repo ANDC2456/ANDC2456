@@ -1,0 +1,71 @@
+body {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: #778BAB;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .game {
+    background-image: url(https://i.blogs.es/c0232f/sonycom/1366_2000.webp);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .game img {
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border: 1px solid #1f0027;
+    border-radius: 5px;
+  }
+  
+  .game h2 {
+    text-align: justify;
+    margin-top: 10px;
+    -webkit-text-fill-color: #ffffff;
+  }
+  
+  .game p {
+    text-align: justify;
+    -webkit-text-fill-color: #948A2B;
+  }
+ 
+  .texto {
+    background-color: #011b5c73;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+    -webkit-text-fill-color: #4F3A94;
+  }
+
+  .game a {
+    -webkit-text-fill-color: blue;
+  }
+
+  .texto img {
+    width: 50px;
+    height: 40px;
+  }
+
+  .youtube a {
+    -webkit-text-fill-color: red;
+  }
+
+  .texto2 {
+    background-color: #00000033;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+    margin-top: 20px;
+    -webkit-text-fill-color: #000000;
+  }
